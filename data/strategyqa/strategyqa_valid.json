@@ -1,0 +1,2038 @@
+[
+    {
+        "qid": "f086e8628fde91ab151c",
+        "question": "Can you get a ride on Amtrak to the Underworld?",
+        "decomposition": [
+            "Which major regions are covered by the passenger railroad service 'Amtrak'?",
+            "Is the Underworld part of #1?"
+        ]
+    },
+    {
+        "qid": "310968736449680ee61e",
+        "question": "Would Emma Roberts's Nancy Drew be considered a private investigator?",
+        "decomposition": [
+            "Who did Emma Roberts play in the 2007 film titled Nancy Drew?",
+            "Was #1 considered a private investigator?"
+        ]
+    },
+    {
+        "qid": "58860d3595c8eb1f4690",
+        "question": "Is the skull formed as one whole bone?",
+        "decomposition": [
+            "How many bones are found in the skull?",
+            "Is #1 equal to one?"
+        ]
+    },
+    {
+        "qid": "b172aea303690917153e",
+        "question": "Does the Constitution of the Philippines copy text from the British constitution?",
+        "decomposition": [
+            "What was the British Constitution?",
+            "What kind of document was the Constitution of the Philippines?",
+            "Can #1 copy something from #2"
+        ]
+    },
+    {
+        "qid": "b3c5d591c696cda63e48",
+        "question": "Do hyenas appear in a Broadway musical?",
+        "decomposition": [
+            "Who is the main antagonist in Disney's Lion King?",
+            "Which animals were #1's minions?",
+            "Has the Lion King been adapted into a Broadway musical and are #2 hyenas?"
+        ]
+    },
+    {
+        "qid": "9a923e94373f79fa80e5",
+        "question": "Could you make the kitchen 'holy trinity' without celery?",
+        "decomposition": [
+            "What ingredients are part of the culinary holy trinity?",
+            "Is celery absent from #1?"
+        ]
+    },
+    {
+        "qid": "c51fd5841358ded6eaec",
+        "question": "Were the Ten commandments the part of the bible that Jewish people do not believe in?",
+        "decomposition": [
+            "What parts of the Bible do Jews not accept?",
+            "What part of the Bible are the Ten Commandments in?",
+            "Is #2 also listed in #1?"
+        ]
+    },
+    {
+        "qid": "ab44cb3353f36e75ef24",
+        "question": "Would Jason Voorhees hypothetically fail at being a martyr?",
+        "decomposition": [
+            "What experience must one pass through in order to be considered a matyr?",
+            "Can Jason Voorhes be killed?",
+            "Would #2 being negative make Jason Voorhees unable to undergo #1?"
+        ]
+    },
+    {
+        "qid": "88016d1d8b284aa9113c",
+        "question": "If your skin was turning the color of a zombie, could it be because of nickel?",
+        "decomposition": [
+            "What color skin are zombies typically depicted with?",
+            "Does Nickel turn a person's skin #1?"
+        ]
+    },
+    {
+        "qid": "3a61dcbed7e358b3aee8",
+        "question": "Can 200 men end to end cover Great Pyramid of Giza's base?",
+        "decomposition": [
+            "What is the height in inches of the average man?",
+            "What is length in inches of the base of The Great Pyramid of Giza?",
+            "What is 200 times #1?",
+            "Is #3 more than #2?"
+        ]
+    },
+    {
+        "qid": "f794258d1e33a50d1348",
+        "question": "Was Surfing popular when pogs came out?",
+        "decomposition": [
+            "When were Pogs released?",
+            "Did surfing experience a growth in popularity in #1?"
+        ]
+    },
+    {
+        "qid": "363a55b705110a878be1",
+        "question": "If Goofy were a pet, would he need heartworm prevention?",
+        "decomposition": [
+            "What kind of animal is Goofy?",
+            "Does a #1 require regular heartworm prevention?"
+        ]
+    },
+    {
+        "qid": "692119e8ebcbf634d224",
+        "question": "Would toast for a vegan have margarine instead of butter?",
+        "decomposition": [
+            "Which products are avoided in vegan diet?",
+            "Is margarine free of #1?"
+        ]
+    },
+    {
+        "qid": "f315b85273989097eb91",
+        "question": "Were there under 150,000 American troops in Vietnam in 1965?",
+        "decomposition": [
+            "How many American troops were in Vietnam in 1965?",
+            "Is #1 less than 150,000?"
+        ]
+    },
+    {
+        "qid": "6b3601b4c251046cbef4",
+        "question": "Was Saint Vincent and the Grenadines named by an Italian explorer?",
+        "decomposition": [
+            "Who discovered Saint Vincent and the Grenadines?",
+            "Was #1 from Italy?"
+        ]
+    },
+    {
+        "qid": "cec0d82b89976b50a4db",
+        "question": "Would someone typically confuse a sweet potato with a pineapple?",
+        "decomposition": [
+            "What are the visual characteristics of a sweet potato?",
+            "What are the visual characteristics of a pineapple?",
+            "Is there any overlap between #1 and #2?"
+        ]
+    },
+    {
+        "qid": "289c2f15051024b8b27f",
+        "question": "Was milliner in Alice in Wonderland (1951 film) likely in need of succimer?",
+        "decomposition": [
+            "What does a milliner do?",
+            "Which Alice in Wonderland (1951 film) character did #1?",
+            "Which element did #2 use for work that could be harmful to their mental health?",
+            "Is succimer useful for treatment of the effects of #3?"
+        ]
+    },
+    {
+        "qid": "2ed50522610a3683933f",
+        "question": "Is jalapeno heat outclassed by Bhut jolokia?",
+        "decomposition": [
+            "How many Scoville units does a Jalapeno have?",
+            "How many Scoville units does a  Bhut jolokia have?",
+            "Is #2 greater than #1?"
+        ]
+    },
+    {
+        "qid": "c5aabbea64966b4f2d42",
+        "question": "Does selling a 2020 Chevrolet Corvette almost pay for a year at Columbia University?",
+        "decomposition": [
+            "How much does a 2020 Chevrolet Corvette cost?",
+            "How much does a year at Columbia University cost?",
+            "Is #1 almost as much as #2?"
+        ]
+    },
+    {
+        "qid": "1a8ea71c1644ded6b058",
+        "question": "Could Godzilla have been killed by the Tohoku earthquake?",
+        "decomposition": [
+            "What major accident was caused by the Tohoku Earthquake?",
+            "What was released into the environment by #1?",
+            "Does #2 cause harm to Godzilla?"
+        ]
+    },
+    {
+        "qid": "c921bdade889def26cf4",
+        "question": "In isopropyl alcohol, is the solubility of salt low?",
+        "decomposition": [
+            "How does high solubility affect the visibility of salt?",
+            "Does salt in isopropyl alcohol fail to exhibit #1?"
+        ]
+    },
+    {
+        "qid": "c5423254bd666acc8a9c",
+        "question": "Would a stool be useful for a Lusotitan to reach the top of an almond tree?",
+        "decomposition": [
+            "How tall would a typical almond tree grow to be?",
+            "How tall was the typical Lusotitan adult?",
+            "Is #1 larger than #2?"
+        ]
+    },
+    {
+        "qid": "69030830a83aa7209cf7",
+        "question": "Were all the materials to make a cannon known during the bronze age?",
+        "decomposition": [
+            "What years did the Bronze age encompass?",
+            "What materials are required for a cannon to fire?",
+            "When were all the parts of #2 discovered?",
+            "Are all the dates in #3 before or during #1?"
+        ]
+    },
+    {
+        "qid": "3cb1925dc00aecc7ef83",
+        "question": "Would Bandy be likely to become popular in Texas?",
+        "decomposition": [
+            "What kind of climate favors long term playing of Bandy?",
+            "Which US States have Bandy teams?",
+            "Is Texas included in #2 or have #1 climate?"
+        ]
+    },
+    {
+        "qid": "9a1bf03a1359fa94eb7c",
+        "question": "Is a krabby patty similar to a cheeseburger?",
+        "decomposition": [
+            "What are the ingredients of a Krabby Patty?",
+            "What are the ingredients of a cheeseburger?",
+            "Is there significant overlap between #1 and #2?"
+        ]
+    },
+    {
+        "qid": "08db047c63681c02184f",
+        "question": "Would the chef at Carmine's restaurant panic if there was no basil?",
+        "decomposition": [
+            "What kind of cuisine does Carmine's serve?",
+            "Is basil an essential ingredient in #1?"
+        ]
+    },
+    {
+        "qid": "082af323f414128588b8",
+        "question": "Are ropes required to operate a frigate?",
+        "decomposition": [
+            "What force powers frigates?",
+            "What characteristic of frigates allows them to use #1?",
+            "Are ropes used to manipulate #2?"
+        ]
+    },
+    {
+        "qid": "e9e2b22b193fcca2a976",
+        "question": "Would someone buying crickets be likely to own pets?",
+        "decomposition": [
+            "What are some common animal classes that people keep as pets?",
+            "Do any of #1 usually eat crickets?"
+        ]
+    },
+    {
+        "qid": "cdd68b5d76364d35779f",
+        "question": "Would a member of the United States Air Force get a discount at Dunkin Donuts?",
+        "decomposition": [
+            "What is the The United States Air Force a branch of?",
+            "What groups of people get a discount at Dunkin Donuts?",
+            "Is there any overlap between #1 and #2?"
+        ]
+    },
+    {
+        "qid": "28ae8f739494f6b0d307",
+        "question": "Is Godzilla's image likely grounds for a lawsuit in 2050?",
+        "decomposition": [
+            "When can a copyrighted item be used without permission?",
+            "In what year will Godzilla as a creative piece of work attain #1 status?",
+            "Is #2 after 2050?"
+        ]
+    },
+    {
+        "qid": "df5d1bdd7a56f0090f60",
+        "question": "Has Drew Carey outshined Doug Davidson's tenure?",
+        "decomposition": [
+            "How long has Drew Carey hosted the Price is Right?",
+            "How long did Doug Davidson host the Price is Right?",
+            "Is #1 longer than #2?"
+        ]
+    },
+    {
+        "qid": "22642aa493b059c3b185",
+        "question": "Could Christopher Nolan's movies finance Cyprus's entire GDP?",
+        "decomposition": [
+            "How much have Christopher Nolan films grossed?",
+            "What is the GDP of Cypress?",
+            "Is #1 greater than #2?"
+        ]
+    },
+    {
+        "qid": "e6d8397b258ac4006210",
+        "question": "Is Rosemary outclassed as plant found in most song titles?",
+        "decomposition": [
+            "How many songs have \"rosemary\" in the title?",
+            "How many songs have the plant \"rose\" in the title?",
+            "Is #1 fewer than #2?"
+        ]
+    },
+    {
+        "qid": "c4d0ceb86bb1e8faba5c",
+        "question": "Can the Communist Party of the Soviet Union get a perfect all kill?",
+        "decomposition": [
+            "Who can get a perfect all kill?",
+            "Is the Communist Party of the Soviet Union a kind of #1?"
+        ]
+    },
+    {
+        "qid": "622c71f22ddb683c15a8",
+        "question": "Can you buy Casio products at Petco?",
+        "decomposition": [
+            "What kind of products does Casio manufacture?",
+            "What kind of products does Petco sell?",
+            "Does #1 overlap with #2?"
+        ]
+    },
+    {
+        "qid": "a202af46315d9970d768",
+        "question": "Did University of Pittsburgh founder have great deal in common with Judith Sheindlin?",
+        "decomposition": [
+            "Who was the founder of University of Pittsburgh?",
+            "What are the major things #1 is known for?",
+            "What are the major things Judith Sheindlin is known for?",
+            "Is there an overlap between #2 and #3?"
+        ]
+    },
+    {
+        "qid": "9ca37a720a283c3d6045",
+        "question": "Would a Common warthog starve in a greenhouse?",
+        "decomposition": [
+            "What kind of things are found in a greenhouse?",
+            "What does the warthog diet consist of?",
+            "Is there significant overlap between #1 and #2?"
+        ]
+    },
+    {
+        "qid": "d9aeae10998c093c0cc9",
+        "question": "Can a Toyota Supra make a vlog?",
+        "decomposition": [
+            "What is a vlog?",
+            "Who makes #1?",
+            "What is a Toyota Supra?",
+            "Is #3 the same as #2?"
+        ]
+    },
+    {
+        "qid": "dc3310bf2a61d1a9f2cf",
+        "question": "Does Amtrak run from NYC directly to the Moai location?",
+        "decomposition": [
+            "Which major regions does Amtrak's passenger railroad service cover?",
+            "Where are the Moai located?",
+            "Is #2 located within any of #1?"
+        ]
+    },
+    {
+        "qid": "5416d6ace8e5bef7e467",
+        "question": "Could a nymph tick pass through a standard hole punch?",
+        "decomposition": [
+            "What is a nymph tick comparable in size to?",
+            "How big around is #1?",
+            "What is the diameter of a standard hole punch?",
+            "Is #3 greater than or equal to #2?"
+        ]
+    },
+    {
+        "qid": "f332153ae800b78d0959",
+        "question": "Can you hide a basketball in a sand cat's ear?",
+        "decomposition": [
+            "On average, how large is a sand cat's ear?",
+            "What is the size of a standard NBA basketball?",
+            "Is #1 greater than #2?"
+        ]
+    },
+    {
+        "qid": "b4e09d5ac3429e358bd8",
+        "question": "Has a tumulus been discovered on Mars?",
+        "decomposition": [
+            "What do tumulus cover?",
+            "What do #1 contain?",
+            "What is a previous condition for something to be considered now #2?",
+            "Have things with the characteristic of #3 been to Mars?"
+        ]
+    },
+    {
+        "qid": "d47120efd0f09badd848",
+        "question": "Is menthol associated with Christmas?",
+        "decomposition": [
+            "What is a popular candy flavor during Christmas?",
+            "Is menthol an ingredient in #1?"
+        ]
+    },
+    {
+        "qid": "0c715b8610f8c79b1ecd",
+        "question": "Does giant panda have colors that differ from yin yang?",
+        "decomposition": [
+            "What colors does the concept \" yin and yang\" represent?",
+            "What are colors of adult giant pandas?",
+            "Is any of #2 excluded from #1?"
+        ]
+    },
+    {
+        "qid": "881286dcdded13a96e3b",
+        "question": "Can you find Bob Marley's face in most smoke shops?",
+        "decomposition": [
+            "Where can one find Bob Marley's face printed on?",
+            "Are any items from #1 commonly found in smoke shops?"
+        ]
+    },
+    {
+        "qid": "267609f49ccd3c0839c3",
+        "question": "Can the Swiss Guard fill the Virginia General Assembly chairs?",
+        "decomposition": [
+            "What is the size of the Swiss Guard?",
+            "What is the seating capacity of the Virginia General Assembly?",
+            "Is #1 equal to or greater than #2?"
+        ]
+    },
+    {
+        "qid": "378ccb7bc29c9ce4eea0",
+        "question": "Does menthol make cigarettes less addictive?",
+        "decomposition": [
+            "What is the primary addictive components in cigarettes?",
+            "Does addition of menthol cause a reduction in #1?"
+        ]
+    },
+    {
+        "qid": "fc48b6524ca6fc402d9d",
+        "question": "Could all People's Volunteer Army hypothetically be transported on Symphony of the Seas?",
+        "decomposition": [
+            "How many people were in the  People's Volunteer Army?",
+            "How many people can the Symphony of the Seas carry?",
+            "Is #2 greater than #1?"
+        ]
+    },
+    {
+        "qid": "757a33340ccf017e9719",
+        "question": "Do urban legends always have to occur in cities?",
+        "decomposition": [
+            "In what settings do urban legends occur?",
+            "Does #1 only consist of urban environments?"
+        ]
+    },
+    {
+        "qid": "6b83137493422db701bb",
+        "question": "Is grief always obvious when it is being experienced?",
+        "decomposition": [
+            "What are the ways a person may express their grief?",
+            "Based on #1, can one always tell when someone is grieving?"
+        ]
+    },
+    {
+        "qid": "d15a33b8f88dc5ce32b0",
+        "question": "Do drummers need spare strings?",
+        "decomposition": [
+            "What instruments require strings in order to be played?",
+            "What instrument do drummers play?",
+            "Is there any overlap between #2 and #1?"
+        ]
+    },
+    {
+        "qid": "0628999cf77312e0f23a",
+        "question": "Did U.S. soldiers listen to Justin Bieber's Believe album during the Battle of Baghdad?",
+        "decomposition": [
+            "When did the Battle of Baghdad take place?",
+            "When was the Justin Bieber album Believe released?",
+            "Is #2 before #1?"
+        ]
+    },
+    {
+        "qid": "56b31f6fe1e5163d2382",
+        "question": "Will a Holstein cow and the Liberty Bell balance out a giant scale?",
+        "decomposition": [
+            "What is the average weight of a mature Holstein cow?",
+            "What is the weight of the Liberty Bell?",
+            "Is #1 closely the same as #2?"
+        ]
+    },
+    {
+        "qid": "8b982a46f1a78d5f295f",
+        "question": "Do spider wasps have eight legs?",
+        "decomposition": [
+            "What kind of animal is a spider wasp?",
+            "Do #1's have eight legs?"
+        ]
+    },
+    {
+        "qid": "99de7a464b1a292868f3",
+        "question": "Can Chinese mountain cat survive in the orbit? ",
+        "decomposition": [
+            "What does a Chinese mountain cat breathe?",
+            "Is there enough #1 in space?"
+        ]
+    },
+    {
+        "qid": "811081ee6a24ee0f7177",
+        "question": "Did Neanderthals use arithmetic?",
+        "decomposition": [
+            "The earliest records of arithmetic use date back to when?",
+            "When did the Neanderthals become extinct?",
+            "Is #1 before #2?"
+        ]
+    },
+    {
+        "qid": "77f814c0e9766c9cdb4d",
+        "question": "Were deaths from Apollo 13 mission eclipsed by other space missions?",
+        "decomposition": [
+            "How many astronauts died on the Apollo 13 mission?",
+            "How many astronauts died during the launch of the Challenger space shuttle?",
+            "How many astronauts died aboard the Columbia space shuttle?",
+            "Are #2 and #3 both greater than #1?"
+        ]
+    },
+    {
+        "qid": "9642838ebb5c1c382ade",
+        "question": "Did Holy Saturday 2019 have special significance to pot smokers?",
+        "decomposition": [
+            "What date was Holy Saturday in 2019?",
+            "What date is an unofficial holiday for pop smokers?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "29cbf28f323d10a53c4d",
+        "question": "Would ramen be bad for someone with heart failure?",
+        "decomposition": [
+            "What is the recommended maximum daily sodium allowance for someone with heart failure?",
+            "How much sodium is in a bowl of ramen?",
+            "Is #2 greater than #1 divided by three?"
+        ]
+    },
+    {
+        "qid": "e1aee6fefd776d661c33",
+        "question": "Were some people afraid of New Years Day coming in 1999?",
+        "decomposition": [
+            "Which New Year's Day followed 1999?",
+            "What concerns were there about computers during the transition from 1999 to #1?",
+            "Was #2 a cause of fear?"
+        ]
+    },
+    {
+        "qid": "b8df6ac181c4c5b280f9",
+        "question": "Can bottlenose dolphins hypothetically outbreed human women?",
+        "decomposition": [
+            "What is the gestation period of bottlenose dolphins?",
+            "What is the gestation period of humans?",
+            "Is #1 lower than #2?"
+        ]
+    },
+    {
+        "qid": "03f66770e93cf733da9b",
+        "question": "Is the current Chief Justice of the United States forbidden from buying alcohol?",
+        "decomposition": [
+            "How old do you have to be to buy alcohol legally in the United States?",
+            "How old is John Roberts?",
+            "Is #2 larger than #1?"
+        ]
+    },
+    {
+        "qid": "25cb5d3136c997326121",
+        "question": "Can Larry King's ex-wives form a water polo team?",
+        "decomposition": [
+            "How many ex wives does Larry King have?",
+            "How many players  are on a water polo team?",
+            "Is #1 equal to #2?"
+        ]
+    },
+    {
+        "qid": "d4c4c4c7fb085e6d1d98",
+        "question": "Is Alan Alda old enough to have fought in the Vietnam War?",
+        "decomposition": [
+            "When were US forces first involved in the Vietnam war?",
+            "When was Alan Alda born?",
+            "What is the minimum age required to join the US Army?",
+            "What is #1 minus #2?",
+            "Is #4 greater than or equal to #3?"
+        ]
+    },
+    {
+        "qid": "50bf347c2a05b645a0f9",
+        "question": "Is Supreme Court of the United States analogous to High Courts of Justice of Spain?",
+        "decomposition": [
+            "What is the extent of the jurisdiction of The Supreme Court of the United States?",
+            "Do the High courts of justice (Spain) have the same jurisdiction as #1?"
+        ]
+    },
+    {
+        "qid": "a0362ec2c3b195e02315",
+        "question": "Is anyone at the Last Supper celebrated in Islam?",
+        "decomposition": [
+            "Who was present at the Last Supper?",
+            "Are any of #1 celebrated in Islam?"
+        ]
+    },
+    {
+        "qid": "55fe694e6b5e5dc9def0",
+        "question": "Can you substitute the pins in a bowling alley lane with Dustin Hoffman's Oscars?",
+        "decomposition": [
+            "How many pins are on a bowling alley lane?",
+            "How many Oscars has Dustin Hoffman won?",
+            "Is #2 greater than or equal to #1?"
+        ]
+    },
+    {
+        "qid": "990bc1e418fff10f8d51",
+        "question": "Can parachuting amateurs ignore hurricane force winds bulletins?",
+        "decomposition": [
+            "What's the minimum wind speed above which the National Weather Service issues hurricane force wind warnings?",
+            "What's the maximum wind speed in which a solo student parachuter can jump?",
+            "Is #2 greater than #1?"
+        ]
+    },
+    {
+        "qid": "6de352d79466276a1d06",
+        "question": "Do sand cats avoid eating all of the prey of eels?",
+        "decomposition": [
+            "What does the sand cat's diet consist of?",
+            "What does the eel's diet consist of?",
+            "Are any of the foods in #2 a subtype of a food in #1?",
+            "Is it not the case that #3 is \"yes\"?"
+        ]
+    },
+    {
+        "qid": "4a0bd486029477dc8249",
+        "question": "Did Lionel Richie ever have dinner with Abraham Lincoln?",
+        "decomposition": [
+            "When did Abraham Lincoln die?",
+            "When was Lionel Richie born?",
+            "Is #2 before #1?"
+        ]
+    },
+    {
+        "qid": "52e1b2df624813a9d66b",
+        "question": "Could someone in the Canary Islands fish for largemouth bass?",
+        "decomposition": [
+            "What kind of water do largemouth bass live in?",
+            "In what body of water are the Canary Islands located?",
+            "What kind of water is found in #2?",
+            "Is #1 the same as #3?"
+        ]
+    },
+    {
+        "qid": "789b8d1061266869fc86",
+        "question": "Is Newt Gingrich's nickname a type of Reptile?",
+        "decomposition": [
+            "What was Newt Gingrich's nickname?",
+            "Is #1 a reptile?"
+        ]
+    },
+    {
+        "qid": "997096ba85eb878a4fd3",
+        "question": "Was King Kong climbing at a higher altitude than Eiffel Tower visitors?",
+        "decomposition": [
+            "How high is the visitor platform at the Eiffel Tower?",
+            "What is the height of the Empire State Building?",
+            "Is #2 higher than #1?"
+        ]
+    },
+    {
+        "qid": "c406445894101a7f4d71",
+        "question": "Is a thousand dollars per Days of Our Lives episodes preferred to other soaps?",
+        "decomposition": [
+            "How many episodes of 'Days of Our Lives' are there as of 2020?",
+            "How many episodes of 'General Hospital' have been aired as of 2020?",
+            "Is #1 greater than #2?"
+        ]
+    },
+    {
+        "qid": "16d7c42444ef13ef4643",
+        "question": "Can Kate Gosselin's household fill out a Bandy team?",
+        "decomposition": [
+            "How many players make up a Bandy team?",
+            "How many people are in Kate Gosselin's household?",
+            "Is #2 greater than or equal to #1?"
+        ]
+    },
+    {
+        "qid": "141e0ea8af89ad9c91af",
+        "question": "In order to work in district management, does one need a car?",
+        "decomposition": [
+            "What is the main responsibility of district managers?",
+            "In order to do #1 efficiently, is a car needed? "
+        ]
+    },
+    {
+        "qid": "71682e0e8e89c5297390",
+        "question": "Was 1941 Operation Barbarossa related to The Crusades?",
+        "decomposition": [
+            "What historic figures were named Barbarosa?",
+            "Of #1, which lived during the medieval period?",
+            "Were any of #2 active during the Crusades?"
+        ]
+    },
+    {
+        "qid": "71711173efbb350885b3",
+        "question": "Can Burundi's communicate with citizens of New Brunswick?",
+        "decomposition": [
+            "What are the official languages of New Brunswick, Canada?",
+            "What are the official languages of Burundi?",
+            "Are some elements of #2 also in #1?"
+        ]
+    },
+    {
+        "qid": "748150aac686d4aac256",
+        "question": "Does Pantheon in Paris have a unique name?",
+        "decomposition": [
+            "What is referred to as the Pantheon in Paris?",
+            "What other concepts are named Pantheon?",
+            "Is #1 differently-named from #2?"
+        ]
+    },
+    {
+        "qid": "a96d28e1221bfbcf50a9",
+        "question": "Would an uninsured person be more likely than an insured person to decline a CT scan?",
+        "decomposition": [
+            "Typically how much does it cost to get a CT scan without insurance?",
+            "On average, how much does it cost to get a CT scan with insurance?",
+            "Is #2 less than #1?"
+        ]
+    },
+    {
+        "qid": "9332b9062a1b5c8109b0",
+        "question": "Did Christopher Columbus condone multiple deadly sins?",
+        "decomposition": [
+            "What are the deadly sins?",
+            "What were Christopher Columbus's actions in the New World?",
+            "Did #2 include more than one of #1?"
+        ]
+    },
+    {
+        "qid": "87afbace24750551d781",
+        "question": "Is popular science used to peer review papers?",
+        "decomposition": [
+            "What is popular science?",
+            "What types of documents does peer review use to verify papers?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "62239530032e5e88b8a7",
+        "question": "Does an individual oceanographer study many sciences?",
+        "decomposition": [
+            "What other fields of science does oceanography cover?",
+            "Does an individual oceanographer have to understand all of #1 to properly understand oceanography?"
+        ]
+    },
+    {
+        "qid": "1d4a642a03f37de1b5d0",
+        "question": "Do American wheelchair users know what the ADA is?",
+        "decomposition": [
+            "Which areas of interest are affected by the ADA?",
+            "Is any of #1 of particular interest to wheelchair users in America?"
+        ]
+    },
+    {
+        "qid": "f79592a376f1793f29cb",
+        "question": "Did Cleopatra have ethnicity closer to Egyptians than Greeks?",
+        "decomposition": [
+            "Who was Cleopatra the daughter of?",
+            "Was #1 descended from Egyptians?"
+        ]
+    },
+    {
+        "qid": "ba3cfe396d13f7a78786",
+        "question": "Did Jack Dempsey have most title fight wins in either of his weight classes?",
+        "decomposition": [
+            "What weight class did Jack Dempsey have title fight wins in?",
+            "How many title fight wins did Jack Dempsey have in #1?",
+            "How many title fight wins did Wladimir Klitschko have in #1?",
+            "Is #2 greater than #3?"
+        ]
+    },
+    {
+        "qid": "60c525b944e991fb9821",
+        "question": "Would a Pict be confused by Old English?",
+        "decomposition": [
+            "What language was spoken by the Picts?",
+            "In what language family is Old English?",
+            "Is #2 not closely related to #1?"
+        ]
+    },
+    {
+        "qid": "cac8e6300a98cf6128af",
+        "question": "Is number of different US President's in 1800s a lucky number in Hong Kong?",
+        "decomposition": [
+            "How many U.S. Presidents served during the 1800's?",
+            "What number is unlucky in Chinese numerology?",
+            "Does #1 end with a number other than #2?"
+        ]
+    },
+    {
+        "qid": "2856480f93e5e9596f83",
+        "question": "Is an ocelot a good present for a kindergartener?",
+        "decomposition": [
+            "What is the behavior and social nature of an ocelot?",
+            "Is #1 suitable for kindergartners considering their age?"
+        ]
+    },
+    {
+        "qid": "43e2fe43169c07b5ab49",
+        "question": "Karachi was a part of Alexander the Great's success?",
+        "decomposition": [
+            "What is Karachi?",
+            "What was the name of the ancient port that was once located in #1?",
+            "Before expanding his empire, what city did Alexander the Great conquer?",
+            "Did Alexander the Great station his fleet at #2 prior to #3?"
+        ]
+    },
+    {
+        "qid": "43f5550e1447823f8290",
+        "question": "Is one blast from double-barreled shotgun likely to kill all squid brains?",
+        "decomposition": [
+            "How many rounds are fired in one blast from a double-barreled shotgun?",
+            "How many brains do squid have?",
+            "Is #1 greater than or equal to #2?"
+        ]
+    },
+    {
+        "qid": "cd43ae9cd3bb64c45247",
+        "question": "Did the Qwerty keyboard layout predate computers?",
+        "decomposition": [
+            "When was the QWERTY keyboard layout developed?",
+            "When was the modern computer invented?",
+            "Is #1 before #2?"
+        ]
+    },
+    {
+        "qid": "eb6aa79b52637aabc477",
+        "question": "Did Subway have a sex offender as a spokesperson?",
+        "decomposition": [
+            "Who was the spokesman for Subway in January 2000?",
+            "Has #1 ever been convicted of a sex crime?"
+        ]
+    },
+    {
+        "qid": "ee3000c7feb6bfb4ef2f",
+        "question": "Does Final Fantasy VI require electricity to play?",
+        "decomposition": [
+            "Which device(s) would be needed to play the video game Final Fantasy VI?",
+            "Do any of #1 run on electricity?"
+        ]
+    },
+    {
+        "qid": "93029b0b5b4f19ab150a",
+        "question": "Can an adult human skull hypothetically pass through the birth canal?",
+        "decomposition": [
+            "How big is the average baby ever delivered vaginally?",
+            "How big is the average adult skull?",
+            "Is #1 greater than #2?"
+        ]
+    },
+    {
+        "qid": "a73446e82b72b4a99e5b",
+        "question": "Does Masaharu Morimoto rely on glutamic acid?",
+        "decomposition": [
+            "What is Masaharu Morimoto's profession?",
+            "What cuisine does #1 make?",
+            "What is a main ingredient in #2?",
+            "Is glutamic acid a flavoring component in #3?"
+        ]
+    },
+    {
+        "qid": "f43533225534420816d6",
+        "question": "Can you house a giant squid at Soldier Field?",
+        "decomposition": [
+            "How long are giant squid?",
+            "What type of field is Soldier Field?",
+            "How long are #2?",
+            "Is #3 equal to or greater than #1?"
+        ]
+    },
+    {
+        "qid": "d9e23006aef632b6d65f",
+        "question": "Have any murderers outlasted Kane's Royal Rumble record?",
+        "decomposition": [
+            "What is Kane's Royal Rumble record?",
+            "Which wrestlers have a Royal Rumble record longer than #1?",
+            "Are any of the wrestlers listed in #2 a murderer?"
+        ]
+    },
+    {
+        "qid": "ff93998995b7b2a8f125",
+        "question": "Would a triples tandem bike support Apollo 15 crew?",
+        "decomposition": [
+            "How many people were on the Apollo 15 mission?",
+            "How many people can ride a triple tandem bike?",
+            "Is #2 at least #1?"
+        ]
+    },
+    {
+        "qid": "9883d6c816d4855035ea",
+        "question": "Do onions have a form that resembles the inside of a tree?",
+        "decomposition": [
+            "What is the structure observed in an onion when it is cut open?",
+            "What is the structure of a tree's cross section?",
+            "Is #1 similar to #2?"
+        ]
+    },
+    {
+        "qid": "fccaf0383b7315827b07",
+        "question": "Was Robert Downey Jr. a good role model as a young man?",
+        "decomposition": [
+            "Did Robert Downey Jr. completely avoid dangerous, irresponsible behavior as a young adult?"
+        ]
+    },
+    {
+        "qid": "66dd7cd84b014a6d1f60",
+        "question": "Is eggplant deadly to most atopic individuals? ",
+        "decomposition": [
+            "What kind of reactions do atopic people have a tendency of getting?",
+            "Are #1 caused by eggplant usually deadly in nature?"
+        ]
+    },
+    {
+        "qid": "dd31908b73e958cfd678",
+        "question": "Is Rurouni Kenshin from same country as lead character in Nobunaga's Ambition?",
+        "decomposition": [
+            "Where is Rurouni Kenshin from?",
+            "Where was Oda Nobunaga from?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "3cc870b5665bc1bc2a8e",
+        "question": "Does the human stomach destroy a bee if ingested?",
+        "decomposition": [
+            "What material protects a bee?",
+            "What is #1 made of?",
+            "Can the human stomach digest #2?"
+        ]
+    },
+    {
+        "qid": "bda0fd7cd1f5a90b72ec",
+        "question": "Are quadrupeds represented on Chinese calendar?",
+        "decomposition": [
+            "What are the symbols of the Chinese calendar?",
+            "What is the defining characteristic of quadrapeds?",
+            "Do any of the animals in #1 have #2?"
+        ]
+    },
+    {
+        "qid": "02eb6aacd72d1b93a83a",
+        "question": "Does the Roman god Vulcan have a Greek equivalent?",
+        "decomposition": [
+            "What is the Roman god Vulcan god of?",
+            "Is there a god of #1 in Greek mythology?"
+        ]
+    },
+    {
+        "qid": "c77b8685911cb05e618b",
+        "question": "Is Jack Black's height enough to satisfy Coronavirus distancing?",
+        "decomposition": [
+            "How tall is Jack Black?",
+            "What is the minimum recommended length for social distancing?",
+            "Is #1 at least #2?"
+        ]
+    },
+    {
+        "qid": "3c354ae95bfcbd8e8664",
+        "question": "Did Jesus go to school to study railroad engineering?",
+        "decomposition": [
+            "When was the steam locomotive invented?",
+            "When did Jesus die?",
+            "Was #1 before #2?"
+        ]
+    },
+    {
+        "qid": "43c636907c6b92d251d5",
+        "question": "Is silicon important in California?",
+        "decomposition": [
+            "Which industrial area in California is named after silicon?",
+            "What kind of companies are prevalent in #1?",
+            "What kind of products do #2 make?",
+            "Is silicon an important raw material for #3?"
+        ]
+    },
+    {
+        "qid": "6c5e2f76bd94dfb33396",
+        "question": "Was the sable depicted in Marvel comics anthropomorphic?",
+        "decomposition": [
+            "What characteristics do anthropomorphic characters have? ",
+            "What Marvel character is based on a sable?",
+            "Does #2 fit the criteria for #1?"
+        ]
+    },
+    {
+        "qid": "de287a3a87a5ac5197ff",
+        "question": "Can someone sell their time through the Toronto Star?",
+        "decomposition": [
+            "What section of the Toronto Star lists things for sale?",
+            "Can someone's services or labor be sold in #1?"
+        ]
+    },
+    {
+        "qid": "449e539f14ff346b8f03",
+        "question": "Will bumblebees derail the United States presidential election?",
+        "decomposition": [
+            "When is the presidential election?",
+            "What is a necessary characteristic for something to disrupt the election? ",
+            "Are bees #2 in #1?"
+        ]
+    },
+    {
+        "qid": "add18119b84e567fed05",
+        "question": "Is the Joker in a healthy romantic relationship?",
+        "decomposition": [
+            "Who is the Joker in a relationship with?",
+            "Does the Joker respect #1?",
+            "Is respect necessary in a healthy romantic relationship?",
+            "Are #2 and #3 the same?"
+        ]
+    },
+    {
+        "qid": "7ced603c3d79a2f2739d",
+        "question": "Does Santa Claus work during summer?",
+        "decomposition": [
+            "What holiday does Santa Claus work on?",
+            "Does #1 occur in the summer?"
+        ]
+    },
+    {
+        "qid": "32b82c383b3a92966d07",
+        "question": "Is Mozambique Drill an easy shot for United States Army Ranger?",
+        "decomposition": [
+            "What is the The Mozambique Drill?",
+            "What guns are United States Army Rangers equipped with?",
+            "What is the shooting range of #2?",
+            "Would a gun with the range of #3 be helpful in #1?"
+        ]
+    },
+    {
+        "qid": "a68cfdfc49fdc73dbd2e",
+        "question": "Was Dioskourides a lapidary?",
+        "decomposition": [
+            "What is a lapidary?",
+            "What do #1's do once they finish their work?",
+            "Did Dioskourides do #1 and #2?"
+        ]
+    },
+    {
+        "qid": "aa3eaaa782c4501cd314",
+        "question": "Was the AK-47 used in the Seven Years' War?",
+        "decomposition": [
+            "Between what years did the Seven Years' War take place?",
+            "When was the AK-47 developed?",
+            "Is #2 before #1?"
+        ]
+    },
+    {
+        "qid": "fb19a4a379ea2cb76568",
+        "question": "Would an actuary be confused about what prime numbers are?",
+        "decomposition": [
+            "Which subjects do actuaries study in college before getting their jobs?",
+            "Which subject are prime numbers taught in?",
+            "Is #2 included in #1?"
+        ]
+    },
+    {
+        "qid": "953c8cb086cf494fb849",
+        "question": "Are brown rock fish found in the waters surrounding Saint Kitts and Nevis?",
+        "decomposition": [
+            "What waters surround Saint Kitts and Nevis?",
+            "In what body of water are brown rock fish found?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "f79d13cdc96dd01af216",
+        "question": "Was Alaska part of the Northern Army during the Civil War?",
+        "decomposition": [
+            "When did the American Civil War take place?",
+            "When did Alaska become part of the United States?",
+            "Is #2 before #1?"
+        ]
+    },
+    {
+        "qid": "59fdc8eaf72fdb34e744",
+        "question": "Does Ahura Mazda have a rivalry with Zeus?",
+        "decomposition": [
+            "What belief system is Ahura Mazda associated with?",
+            "What belief system is Zeus associated with?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "d8ba1dd2575be52d80be",
+        "question": "Are peaches best eaten when firm?",
+        "decomposition": [
+            "When a peach is considered best to be eaten, what characteristics does it have?",
+            "When a peach is firm, does it have most of the characteristics listed in #1?"
+        ]
+    },
+    {
+        "qid": "2127e3455127e099982b",
+        "question": "Does the Pixar film Brave feature Scottish people?",
+        "decomposition": [
+            "Who are the main characters of the Pixar film Brave?",
+            "Are any of #1 from Scotland?"
+        ]
+    },
+    {
+        "qid": "8cc7153ec5a527748adc",
+        "question": "Can a firewall protect against a short circuit?",
+        "decomposition": [
+            "What kind of threats does a firewall protect a computer system against?",
+            "What are the possible causes and results of a short circuit as concerning computers?",
+            "Is any of #2 included in #1?"
+        ]
+    },
+    {
+        "qid": "16c08e5f354b035c41a5",
+        "question": "Was a USB flash drive used in The Godfather?",
+        "decomposition": [
+            "When did USB flash drives become available?",
+            "When was The Godfather released?",
+            "What time-span was setting of The Godfather based on?",
+            "Is #1 before or within #2 or #3?"
+        ]
+    },
+    {
+        "qid": "404ab9200fe1935e7f4c",
+        "question": "Is an inappropriate lullaby Love Song from November 11, 2000?",
+        "decomposition": [
+            "Why are lullabies usually sung?",
+            "What were the features of The Love Song by Marilyn Manson?",
+            "Would #2 be unsuitable to achieve #1?"
+        ]
+    },
+    {
+        "qid": "2b6cfeac9f6533f0409e",
+        "question": "Could a markhor give birth three times in a single year?",
+        "decomposition": [
+            "What is the gestation period of a Markhor?",
+            "How many days are in a year?",
+            "Can #1 be divided into #2 at least 3 times"
+        ]
+    },
+    {
+        "qid": "be5ba924348f83b5df96",
+        "question": "Was United Airlines blameless in worst crash in history?",
+        "decomposition": [
+            "Which aviation accident is considered the worst in aviation history?",
+            "Is United Airlines excluded from #1?"
+        ]
+    },
+    {
+        "qid": "01c27885cede6741bc53",
+        "question": "Did Supernatural break 2001 CW debuting shows seasons record?",
+        "decomposition": [
+            "What was the debuting shows in a seasons record as of 2001 for CW?",
+            "What was Supernatural's highest debuting shows in a season?",
+            "Is #2 higher than #1?"
+        ]
+    },
+    {
+        "qid": "9422300529f87f9917bf",
+        "question": "Is Benjamin Franklin a prime candidate to have his statues removed by Black Lives Matter movement?",
+        "decomposition": [
+            "What social issue motivates the Black Lives Matter movement?",
+            "Did Benjamin Franklin act against achieving #1?"
+        ]
+    },
+    {
+        "qid": "1f0e2597327ddd338fc2",
+        "question": "Is there a warthog on Broadway?",
+        "decomposition": [
+            "Which animals did Disney movie 'Lion King' feature?",
+            "Is a warthog included in #1?",
+            "Was Lion King adapted for a Broadway musical?",
+            "Considering #2 and #3, would the warthog appear on Broadway?"
+        ]
+    },
+    {
+        "qid": "a1dabe439511af470303",
+        "question": "Will AC/DC album sales buy more B-52 bombers than Lil Wayne's?",
+        "decomposition": [
+            "How much does one B-52 bomber cost?",
+            "How much is AC/DC worth due to the sales of their albums?",
+            "Lil Wayne has made how much from his album sales?",
+            "Is #2 more than both #1 and #3?"
+        ]
+    },
+    {
+        "qid": "3f09ce8b018df4527e20",
+        "question": "Are sea turtles enjoying life during quarantine?",
+        "decomposition": [
+            "What elements comprise \"enjoying life\" for a sea turtle?",
+            "Where do the elements in #1 occur?",
+            "How prevalent were humans in the areas in #2 pre-Covid-19?",
+            "In the areas in #2, are humans less prevalent now than in #3?"
+        ]
+    },
+    {
+        "qid": "aeea08d186f49c455038",
+        "question": "Can you use the T-Mobile tuesdays app if you aren't a T-Mobile customer?",
+        "decomposition": [
+            "Who can use the T-Mobile tuesdays app?",
+            "Does T-Mobile allow use of the app if you aren't #1?"
+        ]
+    },
+    {
+        "qid": "8c550764a42b5810b430",
+        "question": "Could a white cockatoo have lived through the entire Thirty Years' War?",
+        "decomposition": [
+            "How long did the Thirty Years' War last?",
+            "How long can white cockatoos live?",
+            "Is #2 greater than or equal to #1?"
+        ]
+    },
+    {
+        "qid": "43302ebc930b722c112b",
+        "question": "Does Osama bin Laden put a wafer on his tongue every Sunday?",
+        "decomposition": [
+            "What is the practice of putting a wafer on your tongue called?",
+            "What religion practices #1 on Sundays?",
+            "Does Osama bin Laden practice #2?"
+        ]
+    },
+    {
+        "qid": "10d718862227bef4a6ed",
+        "question": "Could chives be mistaken for grass?",
+        "decomposition": [
+            "What is the shape and color of Chives?",
+            "What is the shape and color of grass?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "0fbfd54c87436a2bcfb7",
+        "question": "Do tourists prefer Tuvalu to Niue?",
+        "decomposition": [
+            "What is the average number of tourists that visit Tuvalu annually?",
+            "What is the average number of tourists that visit Niue annually?",
+            "Is #1 more than #2?"
+        ]
+    },
+    {
+        "qid": "78f2f99d04b9acd8bada",
+        "question": "Would a Jehovah's witness approve of Alice's Adventures in Wonderland?",
+        "decomposition": [
+            "What are Jehovah's Witnesses?",
+            "What items do #1's forbid?",
+            "In Alice's Adventures in Wonderland, what is the caterpillar seen doing with a pipe?",
+            "Is #2 different from #3?"
+        ]
+    },
+    {
+        "qid": "c419fd25e9ed4501c9ea",
+        "question": "Did occupants of Vellore Fort need to defend themselves from Grizzly Bears?",
+        "decomposition": [
+            "Where is the Vellore Fort located?",
+            "Where can grizzly bears be found?",
+            "Is #1 included in #2?"
+        ]
+    },
+    {
+        "qid": "760a0d26a50972656345",
+        "question": "Could the Port of Baltimore handle the entire world's cargo production of ginger each year?",
+        "decomposition": [
+            "How much cargo does the Port of Baltimore handle each fiscal quarter?",
+            "How much ginger cargo is produced each year?",
+            "Is #1 greater than or equal to #2?"
+        ]
+    },
+    {
+        "qid": "29bf9aa61ed4124cd84c",
+        "question": "Will the Albany in Georgia reach a hundred thousand occupants before the one in New York?",
+        "decomposition": [
+            "What is the population of Albany, Georgia?",
+            "What is the population of Albany, New York?",
+            "What is the difference between 100,000 and #1?",
+            "What is the difference between 100,000 and #2?",
+            "Is #3 smaller than #4?"
+        ]
+    },
+    {
+        "qid": "136496e0b5e8bed459da",
+        "question": "Would it be impossible to use an Iwato scale for a twelve-tone technique composition?",
+        "decomposition": [
+            "How many pitch cases are used for the Iwato scale?",
+            "Is #1 not equal to the number of pitch cases needed for the twelve-tone technique?"
+        ]
+    },
+    {
+        "qid": "088215475460521a5688",
+        "question": "Is cow methane safer for environment than cars?",
+        "decomposition": [
+            "How much methane is produced by cars annually?",
+            "How much methane is produced by cows annually?",
+            "Is #2 less than #1?"
+        ]
+    },
+    {
+        "qid": "9163ac8f2409fe39c3b2",
+        "question": "Is the Sea of Japan landlocked within Japan?",
+        "decomposition": [
+            "Which countries have a shoreline that touches the Sea of Japan?",
+            "Is Japan the only item in #1?"
+        ]
+    },
+    {
+        "qid": "3bd6c0cff096123cc207",
+        "question": "Does Dean Cain have less days to birthday than Will Ferrell every 4th of July?",
+        "decomposition": [
+            "What day of the year was Will Ferrell born?",
+            "What day of the year was Dean Cain born?",
+            "How many days away from July fourth is #1?",
+            "How many days away from July fourth is #2?",
+            "Is #4 less than #3?"
+        ]
+    },
+    {
+        "qid": "2c0ad6834e39382c2e4f",
+        "question": "Is most coffee produced South of the Equator?",
+        "decomposition": [
+            "Which countries produce the most coffee?",
+            "Which hemisphere are most of #1 located?",
+            "Is #2 south of the equator?"
+        ]
+    },
+    {
+        "qid": "73520a07f183b7111236",
+        "question": "Were karaoke and the turtle power tiller patented in the same country?",
+        "decomposition": [
+            "Who is the patent holder of the karaoke system?",
+            "Which country is #1 from?",
+            "Who patented the turtle power tiller?",
+            "Which country is #3 from?",
+            "Is #2 the same as #4?"
+        ]
+    },
+    {
+        "qid": "9d2f5beb0ffe85faf16d",
+        "question": "Can a computer be programmed entirely in Boolean algebra?",
+        "decomposition": [
+            "What are values included in Boolean algebra?",
+            "At what level are program codes read directly by computers?",
+            "Are the values included in #2 the same as #1?"
+        ]
+    },
+    {
+        "qid": "a11f537f67260464d010",
+        "question": "Can someone in Uberlandia work for Mitsubishi?",
+        "decomposition": [
+            "How far is Uberlandia from Catalao?",
+            "Is #1 within reasonable distance to commute to work?",
+            "Is there a Mitsubishi organization in Catalao?",
+            "Are #2 and #3 positive?"
+        ]
+    },
+    {
+        "qid": "70b2122323424f6e80c2",
+        "question": "Would LeBron James hypothetically glance upwards at Yuri Gagarin?",
+        "decomposition": [
+            "How tall is LeBron James?",
+            "How tall was Yuri Gagarin?",
+            "Is #1 lesser than #2?"
+        ]
+    },
+    {
+        "qid": "606181aacf5722b85a0a",
+        "question": "After viewing the Mona Lisa, could you get lunch nearby on foot?",
+        "decomposition": [
+            "Where is the Mona Lisa located?",
+            "Is #1 a place likely to have at least a restaurant/hotel nearby?"
+        ]
+    },
+    {
+        "qid": "5179b1021cc1b2fe1aa6",
+        "question": "Would Gordon Ramsey use uranium as a seasoning?",
+        "decomposition": [
+            "What was Gordon Ramsay's major occupation?",
+            "Is Uranium commonly used as seasoning by a #1?"
+        ]
+    },
+    {
+        "qid": "268b7bf55b10eeab7a7e",
+        "question": "Is 500GB USB device enough to save 10 hours of Netflix shows a day?",
+        "decomposition": [
+            "How many terabytes of data does 5 hours of Netflix use up?",
+            "What is #1 multiplied by 2?",
+            "How many GB are in a TB?",
+            "What is #3 multiplied by #2?",
+            "Is #4 less than 500?"
+        ]
+    },
+    {
+        "qid": "30fcf62f58849cb4ab05",
+        "question": "Were the Great Pyramids built by a theocratic government?",
+        "decomposition": [
+            "Who were the builders of the Great Pyramids?",
+            "How did #1 serve their leaders?",
+            "Could #2 be described as a theocracy?"
+        ]
+    },
+    {
+        "qid": "620957c2018f91328a2e",
+        "question": "Is Shakespeare famous because of the infinitive form?",
+        "decomposition": [
+            "The use of the infinitive form in \"To be or not to be\" appears in which popular soliloquy?",
+            "Which book contained #1",
+            "Did Williams Shakespeare write #2?"
+        ]
+    },
+    {
+        "qid": "018f6ea10facddae3b2e",
+        "question": "Was Dorothea Wendling from same place Porsche originated?",
+        "decomposition": [
+            "Where was Dorothea Wendling born?",
+            "Where was Posche founded?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "6265249e94a68463f6fe",
+        "question": "Did President William Howard Taft read DC Comics?",
+        "decomposition": [
+            "When was DC Comics founded?",
+            "When did President William Howard Taft die?",
+            "Is #1 before #2?"
+        ]
+    },
+    {
+        "qid": "748b072c995cf5147ac9",
+        "question": "Are deaf people left out of enjoying music?",
+        "decomposition": [
+            "In what different ways can music be perceived?",
+            "Does partial or total hearing loss make one unable to detect any of #1?"
+        ]
+    },
+    {
+        "qid": "157913fa4c74220aff2d",
+        "question": "Could pickled cucumbers from 1,000 years ago be good still?",
+        "decomposition": [
+            "What happens to picked foods over time?",
+            "Was technology available 1000 years ago to prevent #1?"
+        ]
+    },
+    {
+        "qid": "9d72d2a919f84ce9c597",
+        "question": "Is zoology unconcerned with strigoi?",
+        "decomposition": [
+            "What does the study of zoology entail?",
+            "What kind of creatures are the strigoi?",
+            "Is #2 unrelated to #1"
+        ]
+    },
+    {
+        "qid": "3f8a1bd6bf3a967cdeb6",
+        "question": "Would a hedgehog avoid animals without a spinal cord?",
+        "decomposition": [
+            "What animals do hedgehog mainly eats?",
+            "Out of #1, do all animals have a spinal cord?"
+        ]
+    },
+    {
+        "qid": "dcd46aac45ec24673b43",
+        "question": "Did Rahul Dravid ever kick a field goal?",
+        "decomposition": [
+            "Which sport does Rahul Dravid play?",
+            "Does #1 involve field goal kicks?"
+        ]
+    },
+    {
+        "qid": "05e69c19a536222d90db",
+        "question": "Did Jon Brower Minnoch suffer from anorexia nervosa?",
+        "decomposition": [
+            "What are characteristics of anorexia nervosa?",
+            "How much did Jon Brower Minnoch weigh?",
+            "Is #2 a weight that would be considered #1?"
+        ]
+    },
+    {
+        "qid": "9390df61207ef77f8ba0",
+        "question": "Would WWF be angrier if you killed koala instead of black swan?",
+        "decomposition": [
+            "What is the black swan's listing on the IUCN red list?",
+            "How is the Koala listed on the IUCN red list?",
+            "What does WWF represent?",
+            "Considering #3, is #2 in more dire straits than #1?"
+        ]
+    },
+    {
+        "qid": "1b747c9c67380c83b6d5",
+        "question": "Did the phone Alexander Graham Bell use have call waiting?",
+        "decomposition": [
+            "When was call waiting service introduced?",
+            "When was Alexander Graham Bell's phone used?",
+            "Is #1 before #2?"
+        ]
+    },
+    {
+        "qid": "694ac8d334fc4545ee31",
+        "question": "Did Kurt Cobain's music genre survive after his death?",
+        "decomposition": [
+            "What is the musiucal genre associated with both Kurt Cobain and Pearl Jam?",
+            "What year did Kurt Cobain die? ",
+            "Did Pearl Jam release a #1 genre album after #2?",
+            "Is #3 yes?"
+        ]
+    },
+    {
+        "qid": "9c0111d03557271a54fc",
+        "question": "Would a tool used for Martin Luther's Reformation opening salvo aid in a crucifixion?",
+        "decomposition": [
+            "What did Martin Luther begin his Reformation with?",
+            "What tools were used in #1?",
+            "What are the tools required to preform Roman crucifixions?",
+            "Is there any overlap between #2 and #3?"
+        ]
+    },
+    {
+        "qid": "798252398fa282fa38e6",
+        "question": "Would Bruce Gandy be an odd choice for Messiah (Handel)?",
+        "decomposition": [
+            "What instruments are used in Messiah (Handel)?",
+            "What instrument is played by Bruce Gandy?",
+            "Is #2 listed in #1?"
+        ]
+    },
+    {
+        "qid": "ae7daa98394767229b6d",
+        "question": "Is narcissism's origin a rare place to get modern words from?",
+        "decomposition": [
+            "From what culture does the word \"narcissism\" come? ",
+            "What percent of English words come from #1?",
+            "Is #2 small enough to be considered \"rare\"?"
+        ]
+    },
+    {
+        "qid": "19c069cf9329b5dc7764",
+        "question": "Can a snake swallow an M60 Patton?",
+        "decomposition": [
+            "What is the largest animal that a snack has ever swallowed?",
+            "How much does #1 weigh?",
+            "How much does a M60 Patton weigh?",
+            "Is #3 less than #2?"
+        ]
+    },
+    {
+        "qid": "98c69a646b5901ee10ce",
+        "question": "Would kaffir lime be good in a White Russian?",
+        "decomposition": [
+            "What are the ingredients of a White Russian?",
+            "Do any of #1 curdle when mixed with lime?"
+        ]
+    },
+    {
+        "qid": "d8649d55a6e1a22b92d9",
+        "question": "Would a psychic who admits to hot reading be trustworthy?",
+        "decomposition": [
+            "What do people pretend to be in order to successfully carry out hot reading?",
+            "Do the 'real' #1 consider hot reading to be genuine?"
+        ]
+    },
+    {
+        "qid": "06361fd92f628fe402e6",
+        "question": "Is World of Warcraft heavier than a loaf of bread?",
+        "decomposition": [
+            "What does World of Warcraft refer to?",
+            "Is #1 a tangible item that has weight?"
+        ]
+    },
+    {
+        "qid": "3a343ae8735fc81f0377",
+        "question": "Is March named after Jupiter's son in Roman mythology?",
+        "decomposition": [
+            "Who are the sons of Jupiter in Roman mythology?",
+            "Who is the month of March named after?",
+            "Is #2 included in #1?"
+        ]
+    },
+    {
+        "qid": "48f842fbfb229d784bd4",
+        "question": "Is the voice of the Genie from Disney's Aladdin still alive?",
+        "decomposition": [
+            "Who provided the voice of the Genie in Aladdin?",
+            "Is #1 still alive?"
+        ]
+    },
+    {
+        "qid": "ad3fef8d0670d91eff56",
+        "question": "Is a railroad engineer needed during NASCAR events?",
+        "decomposition": [
+            "On what kind of transportation do railroad engineers work?",
+            "NASCAR involves what kind of transportation?",
+            "Is #1 and #2 the same?"
+        ]
+    },
+    {
+        "qid": "59542ff1d7782e4cbd89",
+        "question": "Do Windows or Android smartphones run newer versions of Linux?",
+        "decomposition": [
+            "Which operating system do Windows smartphones run on?",
+            "Which operating system do android smartphones run on?",
+            "Is #1 or #2 Linux-based?"
+        ]
+    },
+    {
+        "qid": "9d5af50292804754a5d2",
+        "question": "Is clerk of Supreme Court of Canada safe profession for someone with seismophobia?",
+        "decomposition": [
+            "What is seismophobia a fear of?",
+            "Movement of what causes #1?",
+            "Where is the Supreme Court of Canada located?",
+            "Is #3 located near active #2's?"
+        ]
+    },
+    {
+        "qid": "9594919b1927f406a344",
+        "question": "Would Bobby Jindal's high school mascot eat kibble?",
+        "decomposition": [
+            "Which school did Bobby Jindal attend?",
+            "What is #1's mascot?",
+            "What does kibble refer to?",
+            "Would a #2 eat #3?"
+        ]
+    },
+    {
+        "qid": "6cc5056659f843124e0b",
+        "question": "Are there some countries where waiting staff need no tip?",
+        "decomposition": [
+            "In how many countries is it socially acceptable to not tip the waiting staff?",
+            "Is #1 greater than one?"
+        ]
+    },
+    {
+        "qid": "c6ca93e6d29d85456bf3",
+        "question": "Will Queen Elizabeth be buried in the Pantheon?",
+        "decomposition": [
+            "The Panthéon is reserved as a mausoleum for citizens of which country?",
+            "Is Queen Elizabeth from #1?"
+        ]
+    },
+    {
+        "qid": "0aad1627ee2984c8c147",
+        "question": "Was the 1980 presidential election won by a member of the Grand Old Party?",
+        "decomposition": [
+            "Which political party is also known as the Grand Old Party?",
+            "Who won the 1980 presidential election?",
+            "What political party did #2 belong to?",
+            "Is #3 the same as #1?"
+        ]
+    },
+    {
+        "qid": "f318d0f8f873ce921ac9",
+        "question": "Is it okay to lie after taking an oath in a court of law?",
+        "decomposition": [
+            "When you lie in court, what is that considered?",
+            "Is #1 legal?"
+        ]
+    },
+    {
+        "qid": "9cba30635f5cfd2ce0d4",
+        "question": "Do Elementary School students typically need graphing calculators?",
+        "decomposition": [
+            "What grades are part of elementary schools?",
+            "Out of all the grades in #1, what do students in the highest grade learn in math?",
+            "What topics in math require students to use graphing calculators?",
+            "Is #2 the same s #3?"
+        ]
+    },
+    {
+        "qid": "593e66cbdec8e3a15852",
+        "question": "Are seasons of Survivor surpassed by number of Ancient Greek letters?",
+        "decomposition": [
+            "How many seasons of Survivor have there been as of 2020?",
+            "How many letters were in the Ancient Greek alphabet?",
+            "Is #2 greater than #1?"
+        ]
+    },
+    {
+        "qid": "a406e06cd0164c1c6d15",
+        "question": "Would the trees in Auburn, New York be changing colors in September?",
+        "decomposition": [
+            "In the month of September, what season would it be in New York?",
+            "Do trees change color during #1?"
+        ]
+    },
+    {
+        "qid": "ae723d6788b21ccdd2d7",
+        "question": "Is Central Park Zoo located on an island?",
+        "decomposition": [
+            "Where is the Central Park Zoo located?",
+            "Is #1 an island?"
+        ]
+    },
+    {
+        "qid": "765ef4b32efee9947e5f",
+        "question": "Did any killer Manson band members were named for exceed Charles Manson's kills?",
+        "decomposition": [
+            "What serial killers were members of the Manson band named after?",
+            "How many counts of murder was Charles Manson charged with?",
+            "Were the murder charges of any of #1 greater than #2?"
+        ]
+    },
+    {
+        "qid": "1a0dcaf77f1c45f67d25",
+        "question": "Did Modern Family win a Slammy award?",
+        "decomposition": [
+            "What television genre is Modern Family?",
+            "What genre are the Slammy Awards given to?",
+            "Is #1 and #2 the same?"
+        ]
+    },
+    {
+        "qid": "bdb553a709a06b79ed91",
+        "question": "Could Snoopy transmit rabies?",
+        "decomposition": [
+            "What can transmit rabies?",
+            "What is Snoopy?",
+            "Is #2 included in #1?"
+        ]
+    },
+    {
+        "qid": "3cec996f26ec99d0a519",
+        "question": "Is Y2K relevant to the plot of The Godfather?",
+        "decomposition": [
+            "What era is the story of The Godfather set in?",
+            "What year does Y2K refer to?",
+            "Is #2 included in #1?"
+        ]
+    },
+    {
+        "qid": "d6f1675f42d55691e008",
+        "question": "Can a sniper shoot a fish past Bathypelagic Zone in ocean?",
+        "decomposition": [
+            "How deep is the bathypelagic zone?",
+            "How far can snipers shoot?",
+            "Is #2 greater than or equal to #1?"
+        ]
+    },
+    {
+        "qid": "765107a950759075813a",
+        "question": "Do people remember Lucille Ball's winemaking as successful?",
+        "decomposition": [
+            "What show was Lucille Ball a star of?",
+            "On #1, was Lucille's character successful in making wine?"
+        ]
+    },
+    {
+        "qid": "63e55313ae5cbb20dc0c",
+        "question": "Did Archduke Franz Ferdinand of Austria participate in the Pacific War?",
+        "decomposition": [
+            "During what years did the Pacific War occur?",
+            "When did Archduke Franz Ferdinand of Austria die?",
+            "Did #2 occur after #1?"
+        ]
+    },
+    {
+        "qid": "5f96f27de4c8cdafc070",
+        "question": "Can people die from brake failure?",
+        "decomposition": [
+            "What is a brake failure?",
+            "What can #1 lead to in a car?",
+            "Have people died from #2?"
+        ]
+    },
+    {
+        "qid": "9e4811e253f8f28cb09f",
+        "question": "Did Bruiser Brody wrestle on WWE Raw?",
+        "decomposition": [
+            "When did WWE Raw make its debut appearance?",
+            "When did wrestler Bruiser Brody's wrestling career come to an end?",
+            "Is #1 before #2?"
+        ]
+    },
+    {
+        "qid": "b5cdf7f8a6b440cdd451",
+        "question": "Could Carl Friedrich Gauss speak to someone 100 miles away?",
+        "decomposition": [
+            "What device allows people to speak to each other even if they are 100 miles apart?",
+            "When was #1 invented?",
+            "When did Carl Friedrich Gauss die?",
+            "Is #2 before #3?"
+        ]
+    },
+    {
+        "qid": "f378f856bdaff39cdfa3",
+        "question": "Is the cuisine of Hawaii suitable for a vegan?",
+        "decomposition": [
+            "What are the popular foods in Hawaiian cuisine?",
+            "Which foods will a vegan exclude from their diet?",
+            "Are all of #2 excluded from #1?"
+        ]
+    },
+    {
+        "qid": "3de88c80f0914eb08caf",
+        "question": "Does the texture of leaves remain the same independent of their coloring changing?",
+        "decomposition": [
+            "When leaves change to red and orange, what does their texture become?",
+            "When leaves are green, what is their texture?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "d825d90c0c4d555b3bea",
+        "question": "Are ground bell peppers the main ingredient of black pepper?",
+        "decomposition": [
+            "What is used to make black pepper?",
+            "Is #1 the same thing as bell pepper?"
+        ]
+    },
+    {
+        "qid": "e29d4982a58b5e70410e",
+        "question": "Would  bald eagle deliver an urgent message before B-52?",
+        "decomposition": [
+            "How fast can an eagle travel?",
+            "How fast can a B-52 travel?",
+            "Is #1 greater than #2?"
+        ]
+    },
+    {
+        "qid": "a4ae401042cea6e3ef15",
+        "question": "Is most store bought rice pudding made with brown rice?",
+        "decomposition": [
+            "Which rice pudding is most commonly purchased in stores?",
+            "What color is #1",
+            "Which types of rice are commonly used to make rice pudding?",
+            "Is the one among #3 having color of #2 brown rice?"
+        ]
+    },
+    {
+        "qid": "40eb773857f1933b4b36",
+        "question": "Can a jet plane be made without society?",
+        "decomposition": [
+            "What materials do jet planes require to be built?",
+            "Is #1 obtainable without people?"
+        ]
+    },
+    {
+        "qid": "a2272d539335ff78b429",
+        "question": "Can Tame Impala's studio band play a proper game of Hot Potato?",
+        "decomposition": [
+            "How many studio members are in Tame Impala's band?",
+            "What is the minimum number of people that can play hot potato?",
+            "Is #1 greater than or equal to #2?"
+        ]
+    },
+    {
+        "qid": "26813dc7504fd7355c8c",
+        "question": "Does Magnus Carlsen enjoy KFC?",
+        "decomposition": [
+            "What country is Magnus Carlsen from?",
+            "In what countries does KFC have a location?",
+            "Is #1 included in #2?"
+        ]
+    },
+    {
+        "qid": "42100a5a2f10584fb923",
+        "question": "Were the Spice Girls inspired by Little Mix?",
+        "decomposition": [
+            "When was the English pop group Spice Girls formed?",
+            "When was the British girl group Little Mix formed?",
+            "Is #2 before #1?"
+        ]
+    },
+    {
+        "qid": "3486b6b5c69878bb088d",
+        "question": "Do more Cauliflower grow in Arizona than California?",
+        "decomposition": [
+            "Which kind of climate favors the growth of Cauliflower?",
+            "What kind of climate does Arizona have?",
+            "What kind of weather does California have?",
+            "Is #1 more similar to #2 than #3?"
+        ]
+    },
+    {
+        "qid": "47b4c3e06e1a2f42b91a",
+        "question": "Are you more likely to find bipolar disorder in a crowd than diabetes?",
+        "decomposition": [
+            "What percent of the population has bipolar disorder?",
+            "What percent of the population has diabetes?",
+            "Is #1 greater than #2?"
+        ]
+    },
+    {
+        "qid": "6c6d1853b7e97e66ef46",
+        "question": "If you have black hair and want red hair, do you need bleach?",
+        "decomposition": [
+            "Why would someone need bleach when dying their hair?",
+            "Is red hair #1 than black hair?"
+        ]
+    },
+    {
+        "qid": "cd1a9cb828c1cbc7b2d1",
+        "question": "Does open heart surgery finish before entirety of American Ballet Theatre's Swan Lake?",
+        "decomposition": [
+            "How long is a performance of Swan Lake?",
+            "How long does it take to perform a coronary artery bypass?",
+            "Is #1 longer than #2?"
+        ]
+    },
+    {
+        "qid": "dca314ab2d3166f19182",
+        "question": "Would a Rabbi celebrate Christmas?",
+        "decomposition": [
+            "What religion do Rabbis belong to?",
+            "Which religion celebrates Christmas?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "46428dac0ceefa1ad73b",
+        "question": "Would Eric Clapton's mother hypothetically be unable to legally purchase cigarettes in the USA at his birth?",
+        "decomposition": [
+            "How old was Eric Clapton's mom when he was born?",
+            "How old must you be to legally buy cigarettes in the USA?",
+            "Is #2 greater than #1?"
+        ]
+    },
+    {
+        "qid": "0b201a9520a4745fcd59",
+        "question": "Was Martin Luther same sect as Martin Luther King Jr.?",
+        "decomposition": [
+            "Which religious denomination did Martin Luther belong to for the significant part of his life?",
+            "Which religious denomination did Martin Luther King Jr. identify with for the significant part of his life?",
+            "Is #1 the same as #2?"
+        ]
+    },
+    {
+        "qid": "b07fd13daa6e17e6273c",
+        "question": "Is a pottery kiln inappropriate for use with glass blowing?",
+        "decomposition": [
+            "From what sides does a pottery kiln Heat?",
+            "From what sides does a glass kiln heat?",
+            "Is #1 listed in #2?"
+        ]
+    },
+    {
+        "qid": "cdc5da16ca1bb2a4edf7",
+        "question": "Would United States Air Force consider Return of the Jedi's Han Solo bad hypothetical candidate?",
+        "decomposition": [
+            "What requirements does the US Air Force demand of potential candidates?",
+            "What are the characteristics of character Han Solo as featured in Return of the Jedi?",
+            "Does #2 fail to satisfy all of #1?"
+        ]
+    },
+    {
+        "qid": "a1493f4a007aa2d7ca24",
+        "question": "Does Super Mario mainly focus on a man in green?",
+        "decomposition": [
+            "Who is the main character of the game Super Mario?",
+            "Does #1 wear green?"
+        ]
+    },
+    {
+        "qid": "1647d6f49307d7678d18",
+        "question": "Would a person with Anorexia nervosa be more likely to break a bone than a regular person?",
+        "decomposition": [
+            "What kind of eating behavior do people with anorexia nervosa exhibit?",
+            "Does #1 lead to reduced bone strength?"
+        ]
+    },
+    {
+        "qid": "d22a8c50ff6a652dd49e",
+        "question": "Were all of Heracles's children present for his funeral pyre?",
+        "decomposition": [
+            "What did Heracles do to his children by his first wife?",
+            "Are people who have been #1 able to come back to life?"
+        ]
+    },
+    {
+        "qid": "27e9e6d368cab11438c4",
+        "question": "NATO doesn't recognize double triangle flag countries?",
+        "decomposition": [
+            "What country has a flag with double triangles on it?",
+            "Which countries are part of NATO?",
+            "Is #1 not included in #2?"
+        ]
+    },
+    {
+        "qid": "1e97ab50309873ca1789",
+        "question": "Could a Bengal cat hypothetically best Javier Sotomayor's record?",
+        "decomposition": [
+            "How high is Javier Sotomayor's world record high jump?",
+            "Which breed of cat can jump the highest?",
+            "If the average cat can jump up to 9 feet, then #2 can jump higher than what number?",
+            "Is #3 greater than #1?"
+        ]
+    },
+    {
+        "qid": "c7d6bfa777382af6c5bb",
+        "question": "Does table tennis use prime numbers?",
+        "decomposition": [
+            "What are the scores that can be awarded in a game of table tennis?",
+            "Is any of #1 a prime number?"
+        ]
+    },
+    {
+        "qid": "59adb0e59a4f961f1c6f",
+        "question": "Can a believer in agnosticism become pope?",
+        "decomposition": [
+            "What do agnostics believe about the existence of God?",
+            "Which religious group does a pope head?",
+            "What are the beliefs held by #2 concerning God's existence?",
+            "Is #1 in agreement with #3?"
+        ]
+    },
+    {
+        "qid": "5c62f57b2fd2423b5f59",
+        "question": "Did the Cherokee people send a delegation to oppose allotment?",
+        "decomposition": [
+            "Which acts cause allotment to become US policy?",
+            "Who sent as a delegate to congress to oppose #1?",
+            "Is #2 related to the Cherokee people?"
+        ]
+    },
+    {
+        "qid": "2e8e9e51f0f290e32d27",
+        "question": "Did any cultures associate celery with death?",
+        "decomposition": [
+            "What are the various forms of cultural depictions of celery?",
+            "Is any of #1 associated with death?"
+        ]
+    },
+    {
+        "qid": "c6adebffcdabb5ba7063",
+        "question": "Is the name of a mythical creature also the name of a Small Solar System body?",
+        "decomposition": [
+            "What is a mythical creature with the body of a horse and the head of a man called?",
+            "Is any Small Solar System named after #1?"
+        ]
+    },
+    {
+        "qid": "947a089ce6992869815a",
+        "question": "Did the swallow play a role in a famous film about King Arthur?",
+        "decomposition": [
+            "What Monty Python film is about King Arthur?",
+            "Are swallows mentioned several times in #1?"
+        ]
+    },
+    {
+        "qid": "2bc94c6dfc79d7a86fa2",
+        "question": "Could Christopher Walken enlist in the United States Marine Corps?",
+        "decomposition": [
+            "How old is Christopher Walken?",
+            "What is the age limit for enlistment in the United States Marine Corps?",
+            "Is #1 less than or equal to #2?"
+        ]
+    },
+    {
+        "qid": "05fe6e26626c69b65ac1",
+        "question": "Do mollymawks live where albatrosses cannot?",
+        "decomposition": [
+            "Mollymawks are a type of which animal?",
+            "Is #1 different from an albatross?"
+        ]
+    }
+]
