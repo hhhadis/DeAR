@@ -1,8 +1,9 @@
 import json
 from backbone import chatgpt_inference, llama_inference, chatglm_inference
 from prompts import get_prompt
+import re
 
-MODEL_NAME = "chatgpt"
+MODEL_NAME = "chatglm"
 
 function_map = {
     "chatgpt": chatgpt_inference,
@@ -16,8 +17,13 @@ def Decompose(question, heuristics):
     prompt = head + "Logic Heuristics:\n" + heuristics + \
     "The given question Q: " + question + "\n" + instruction + \
     "Please output the decomposed sub-questions as a string in list format, where each element represents the text of a sub-question, in the form of '[\"subq1\", \"subq2\", \"subq3\"]'."
+    print(prompt)
     string_data = function_map[MODEL_NAME](prompt)
-    list_data = json.loads(string_data)
+    print(string_data)
+    sting_data = re.search(r'\[(.*?)\]', string_data).group()
+    print(sting_data)
+    list_data = eval(sting_data)
+    print(list_data)
     return list_data
 
 def Solve(question):

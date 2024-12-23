@@ -5,7 +5,7 @@ import torch
 openai.api_base = "your_api_base"
 openai.api_key = "your_api_key"
 LLAMA_MODEL_PATH = "your-llama2-7b-path"  
-CHATGLM_MODEL_PATH = "your-chatglm3-6b-path"  
+CHATGLM_MODEL_PATH = "D:\github\chatglm3-6B"
 
 def chatgpt_inference(prompt_text):
         rsp = openai.ChatCompletion.create(
